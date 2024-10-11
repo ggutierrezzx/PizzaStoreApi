@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3SFljBAYakvKYwoQmAZ9LuAB+S4+BluoPD2FuQe7+fE=",
+  "Source": "PizzaStoreApi",
+  "BasePath": "_content/PizzaStoreApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
